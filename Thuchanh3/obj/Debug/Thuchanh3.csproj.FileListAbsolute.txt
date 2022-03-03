@@ -1,0 +1,12 @@
+E:\CS434\Thuchanh3\Thuchanh3\bin\Debug\Thuchanh3.exe.config
+E:\CS434\Thuchanh3\Thuchanh3\bin\Debug\Thuchanh3.exe
+E:\CS434\Thuchanh3\Thuchanh3\bin\Debug\Thuchanh3.pdb
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.csprojAssemblyReference.cache
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.Form1.resources
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.Properties.Resources.resources
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.csproj.GenerateResource.cache
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.csproj.CoreCompileInputs.cache
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.exe
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.pdb
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.giaiptbac2.resources
+E:\CS434\Thuchanh3\Thuchanh3\obj\Debug\Thuchanh3.pheptinh.resources
